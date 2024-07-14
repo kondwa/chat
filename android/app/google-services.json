@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "754605637180",
+    "project_id": "milesoft-chat",
+    "storage_bucket": "milesoft-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754605637180:android:6940383ca30b8f12d30d39",
+        "android_client_info": {
+          "package_name": "africa.milesoft.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCogtXVw_WT6NWiQ3Bnz2o9qBE1rH4yUKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754605637180:android:f7b0bea8120f26ead30d39",
+        "android_client_info": {
+          "package_name": "co.milesoft.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCogtXVw_WT6NWiQ3Bnz2o9qBE1rH4yUKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

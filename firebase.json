@@ -1,0 +1,25 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "milesoft-chat",
+          "appId": "1:754605637180:android:6940383ca30b8f12d30d39",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "milesoft-chat",
+          "configurations": {
+            "android": "1:754605637180:android:6940383ca30b8f12d30d39",
+            "ios": "1:754605637180:ios:b70b038b42f00ba6d30d39",
+            "macos": "1:754605637180:ios:b70b038b42f00ba6d30d39",
+            "web": "1:754605637180:web:9c4d89c8ee02b8cdd30d39",
+            "windows": "1:754605637180:web:e97aebfb0a76d77ad30d39"
+          }
+        }
+      }
+    }
+  }
+}
