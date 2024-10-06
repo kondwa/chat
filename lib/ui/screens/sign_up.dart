@@ -24,11 +24,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Icon(
-                Icons.chat,
-                size: 60,
-                color: Get.theme.colorScheme.primary,
-              ),
+              Image.asset("assets/icon.png", width: 80, height: 80),
               const SizedBox(
                 height: 20,
               ),
